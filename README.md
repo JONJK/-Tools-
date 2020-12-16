@@ -1,8 +1,12 @@
 
-?? Ven Y Descubre Sus herramientas ★★..
 
 
 # -Tools-
+
+
+?? Ven Y Descubre Sus herramientas ★★..
+
+~
 
 🌀 Es Un conjunto de Herramientas Utiles..
 
@@ -10,7 +14,8 @@
 
 
 
-<>★
+<>🌀Su lenguaje es bash 🌀
+
 
 
 
