@@ -32,3 +32,27 @@ Este es un Instalador de Herramientas en Conjuntos y un Comando adicional
 [11] Cmatrix
 
 ★>★
+
+
+~🅘🅝🅢🅣🅐🅛🅐🅒🅘🅞🅝~
+
+
+~ apt update && upgrade -y
+
+~ apt install unstable-repo
+
+~ git clone https://github.com/JONJK/-Tools-
+
+~ cd -Tools-
+
+~chmod 777 Termux-Install.sh
+
+~bash Termux-Install.sh
+
+
+
+              ★ 🅻🅸🆂🆃🅾🅾 ★
+
+
+<Recomiendo Ampliar su terminal para que el logo
+<Se les pueda ver Completamente Bien ★Thansk★
